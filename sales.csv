@@ -1,0 +1,11 @@
+date,category,region,sales,quantity
+2026-01-05,Electronics,North,1200,3
+2026-01-12,Clothing,South,450,9
+2026-02-03,Electronics,East,2100,5
+2026-02-14,Furniture,North,3200,2
+2026-03-01,Clothing,West,380,7
+2026-03-18,Electronics,South,1750,4
+2026-04-07,Furniture,East,2800,1
+2026-04-22,Clothing,North,520,10
+2026-05-09,Electronics,West,9900,20
+2026-05-30,Furniture,South,3100,2
